@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+
+<html lang="fr">
+
+<head>
+
+    <title>CV Simple</title>
+
+<link rel="stylesheet"href="cv.css">    
+
+    <style>
+
+        body { 
+
+            font-family: sans-serif; 
+
+            line-height: 1.5; 
+
+            max-width: 600px; 
+
+            margin: 20px auto; 
+
+            padding: 20px;
+
+            border: 1px solid #ccc;
+
+        }
+
+        h1 { color: #333; border-bottom: 2px solid #333; }
+
+        h2 { color: #555; background: #eee; padding: 5px; }
+
+       
+
+    </style>
+
+</head>
+
+<body>
+
+<div class="cv-header">
+
+    <img src="mypic.jpg"alt="photo">
+
+    <div>
+
+        <h1>Mohamed ELYOUSSEFI</h1>
+
+        <p><strong>Email:</strong>elyoussefim12@gmail.com</p>
+
+        <p><strong>Tel:</strong> 0680198580</p>
+
+        <p><strong>Adresse:</strong> Skoura, Ouarzazate</p>
+
+    </div>
+
+</div>  
+
+
+
+    <h2>Formation</h2>
+
+    <p><strong>2024/2025:</strong> BAC pc -Qualifiant abi el kacem</p>
+
+
+
+    <h2>Expérience</h2>
+
+    <p>il n'y a pas </p>
+
+
+
+    <h2>Compétences</h2>
+
+    <ul>
+
+        <li>Fermes et construction</li>
+
+        <li>Langues: <br>
+
+            <strong>*Français</strong><br>
+
+            <strong>*Arabe</strong><br>
+
+            <strong>*Anglais</strong><br>
+
+        </li>
+
+    </ul>
+
+
+
+</body>
+
+</html>
